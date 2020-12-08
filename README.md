@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Voice Recognition**
 
-- 🌱 I’m currently learning **Deep Learning Framworks**
+- 🌱 I’m currently learning **Deep Learning Frameworks**
 
 - 👨‍💻 Want to check out my Portfolio Website than [click here](https://ravanv2.github.io/My_Portfolio/index.html)
 
